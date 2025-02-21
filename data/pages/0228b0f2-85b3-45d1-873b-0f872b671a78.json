@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-21T12:29:26.842Z",
+  "created_by": "tanyaclement",
+  "title": "FF0010",
+  "slug": "ff0010",
+  "updated_at": "2025-02-21T12:29:26.842Z",
+  "updated_by": "tanyaclement",
+  "parent": "d0b26129-99d4-48c9-9b4b-3a13bf0901f1",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b0bf15bc-6879-4373-859a-164b14520e82"
+  }
+}
